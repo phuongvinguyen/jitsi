@@ -1,9 +1,4 @@
 name: Deploy Debian packages
-updates:
-  - package-ecosystem: "maven"
-    directory: "/"                  # Root directory where the main pom.xml is located
-    schedule:
-      interval: "daily"  
 on:
   workflow_call:
     inputs:
