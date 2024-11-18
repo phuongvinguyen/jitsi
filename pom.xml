@@ -29,14 +29,14 @@
     <smackVersion>4.4.6</smackVersion>
     <jxmppVersion>1.0.3</jxmppVersion>
     <minidnsVersion>1.0.4</minidnsVersion>
-    <slf4jVersion>2.0.7</slf4jVersion>
+    <slf4jVersion>2.0.16</slf4jVersion>
     <kotlin.version>1.6.21</kotlin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <lombok.version>1.18.28</lombok.version>
     <httpcomponents.version>4.5.14</httpcomponents.version>
     <jitsiGeneralGroupId>org.jitsi</jitsiGeneralGroupId>
     <!-- keep this empty default for Linux builds -->
-    <jitsi-deps-arch></jitsi-deps-arch>
+    <jitsi-deps-arch/>
   </properties>
 
   <dependencies>
