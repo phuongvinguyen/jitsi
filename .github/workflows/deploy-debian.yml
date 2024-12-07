@@ -31,7 +31,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - uses: robinraju/release-downloader@4bdb8ee081c9ee08a35320794dd461312ac9e4ad
+      - uses: robinraju/release-downloader@b5cac74e1522cb380b8058e12c6e2197447feadb
         with:
           repository: "${{ github.repository }}"
           tag: "${{ github.event.inputs.tag || inputs.tag }}"
