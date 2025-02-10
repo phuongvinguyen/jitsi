@@ -25,7 +25,7 @@
     <revision>2.14-SNAPSHOT</revision>
     <versionName>Jitsi Desktop</versionName>
     <bouncycastleVersion>1.75</bouncycastleVersion>
-    <jnaVersion>5.13.0</jnaVersion>
+    <jnaVersion>5.16.0</jnaVersion>
     <smackVersion>4.4.6</smackVersion>
     <jxmppVersion>1.0.3</jxmppVersion>
     <minidnsVersion>1.0.4</minidnsVersion>
