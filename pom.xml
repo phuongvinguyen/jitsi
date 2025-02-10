@@ -27,7 +27,7 @@
     <bouncycastleVersion>1.75</bouncycastleVersion>
     <jnaVersion>5.13.0</jnaVersion>
     <smackVersion>4.4.6</smackVersion>
-    <jxmppVersion>1.0.3</jxmppVersion>
+    <jxmppVersion>1.1.0</jxmppVersion>
     <minidnsVersion>1.0.4</minidnsVersion>
     <slf4jVersion>2.0.7</slf4jVersion>
     <kotlin.version>1.6.21</kotlin.version>
