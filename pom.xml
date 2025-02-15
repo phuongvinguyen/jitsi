@@ -119,7 +119,7 @@
       <dependency><groupId>org.jitsi</groupId><artifactId>jain-sip-ri-ossonly</artifactId><version>1.2.279-jitsi-oss1</version></dependency>
       <dependency><groupId>org.jxmpp</groupId><artifactId>jxmpp-core</artifactId><version>${jxmppVersion}</version></dependency>
       <dependency><groupId>org.jxmpp</groupId><artifactId>jxmpp-jid</artifactId><version>${jxmppVersion}</version></dependency>
-      <dependency><groupId>com.googlecode.libphonenumber</groupId><artifactId>libphonenumber</artifactId><version>8.13.17</version></dependency>
+      <dependency><groupId>com.googlecode.libphonenumber</groupId><artifactId>libphonenumber</artifactId><version>8.13.55</version></dependency>
       <dependency><groupId>org.osgi</groupId><artifactId>osgi.core</artifactId><version>8.0.0</version></dependency>
       <dependency><groupId>org.osgi</groupId><artifactId>org.osgi.service.cm</artifactId><version>1.6.1</version></dependency>
       <dependency><groupId>org.igniterealtime.smack</groupId><artifactId>smack-core</artifactId><version>${smackVersion}</version></dependency>
