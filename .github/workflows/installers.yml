@@ -391,7 +391,7 @@ jobs:
           tar -cvf debian-releases.tar target/{debian-*,ubuntu-*}/*
 
       - name: Create release
-        uses: ncipollo/release-action@a2e71bdd4e7dab70ca26a852f29600c98b33153e
+        uses: ncipollo/release-action@3cfa40eca43cc58fab4773727eb14782ef744575
         with:
           artifacts: "target/**/*.msi,target/**/jitsi-*-win-*.zip,target/**/*.dmg,debian-releases.tar"
           allowUpdates: true
